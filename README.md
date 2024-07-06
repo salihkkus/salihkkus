@@ -15,8 +15,5 @@ I'm interested in game development recently. I also plan to improve myself in cy
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-(https://github.com/artur-debv/salihkkus/blob/output/github-contribution-grid-snake.svg)
-
-(https://github-readme-stats.vercel.app/api/pin/?username=salihkkus&repo=salihkkus&theme=react)](https://github.com/salihkkus/salihkkus)
 
 
