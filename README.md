@@ -15,8 +15,8 @@ I'm interested in game development recently. I also plan to improve myself in cy
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihkkus/salihkkus/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihkkus/salihkkus/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salihkkus/salihkkus/output/github-contribution-grid-snake.svg">
-</picture>
+L[Snake animation](https://github.com/artur-debv/salihkkus/blob/output/github-contribution-grid-snake.svg)
+
+[L[readme](https://github-readme-stats.vercel.app/api/pin/?username=salihkkus&repo=salihkkus&theme=react)](https://github.com/salihkkus/salihkkus)
+
+I
