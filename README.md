@@ -1,5 +1,5 @@
 # About Me:
-I'm interested in game development recently. I also plan to improve myself in AI and web development. Now , I'm studying algorithms , Android Mobile Apps, PHP , C# and game development. I would like to work in gaming industry because developing a game is my childhood dream.
+I'm interested in game development recently. I also plan to improve myself in AI and web development. Now , I'm studying algorithms , Mobile Apps, C# and game development. I would like to work in gaming industry because developing a game is my childhood dream.
 
 
 ## 🌐 Socials:
