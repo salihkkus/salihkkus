@@ -1,6 +1,5 @@
 # About Me:
-I'm interested in game development recently. I also plan to improve myself in AI and web development. Now , I'm studying algorithms , Mobile Apps, C# and game development. I would like to work in gaming industry because developing a game is my childhood dream.
-
+I'm currently working on mobile app development and developing my skills in algorithms, C#, .NET, and game development. My interest in technology isn't limited to software development; I'm also interested in data science and artificial intelligence. I aim to broaden my horizons by drawing from diverse disciplines. My goal is to transform my learning into projects that will contribute to my personal development and create a career path that allows me to develop innovative solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihkarakus/) 
