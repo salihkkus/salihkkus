@@ -1,5 +1,9 @@
 # About Me:
-I'm currently working on mobile app development and developing my skills in algorithms, C#, .NET, and game development. My interest in technology isn't limited to software development; I'm also interested in data science and artificial intelligence. I aim to broaden my horizons by drawing from diverse disciplines. My goal is to transform my learning into projects that will contribute to my personal development and create a career path that allows me to develop innovative solutions.
+I am a senior Computer Engineering student currently focusing on Data Science and Artificial Intelligence. Alongside this, I actively develop my skills in algorithms, C#, .NET, and mobile application development.
+
+My interest in technology goes beyond software development alone. I am also interested in game development and aim to build a broad technical perspective by learning from different disciplines.
+
+I am highly motivated to turn what I learn into practical projects, continuously improving my problem-solving skills and technical mindset throughout the process. My goal is to build a career where I can create innovative solutions and keep learning in a fast-evolving technological environment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihkarakus/) 
