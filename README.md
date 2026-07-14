@@ -1,11 +1,10 @@
 # About Me
 
-I am a senior Computer Engineering student currently focusing on Data Science and Artificial Intelligence. Alongside this, I actively develop my skills in algorithms, C#, .NET, and mobile application development.
+I am a recent Computer Engineering graduate focusing on Data Science and Artificial Intelligence. Alongside this, I actively hone my skills in algorithms, C#, .NET, and mobile application development.
 
-My interest in technology goes beyond software development alone. I am also interested in game development and aim to build a broad technical perspective by learning from different disciplines.
+My passion for technology extends beyond traditional software development. By exploring various disciplines, including game development, I aim to maintain a broad, analytical, and versatile technical perspective.
 
-I am highly motivated to turn what I learn into practical projects, continuously improving my problem-solving skills and technical mindset throughout the process. My goal is to build a career where I can create innovative solutions and keep learning in a fast-evolving technological environment.
-
+I am highly motivated to transform theoretical knowledge into practical, real-world projects. Throughout this process, I continuously improve my problem-solving skills and technical mindset. My ultimate goal is to build a career where I can design innovative solutions and keep learning in a fast-evolving technological environment.
 ---
 
 ## 🌐 Socials
