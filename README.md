@@ -5,6 +5,7 @@ I am a recent Computer Engineering graduate focusing on Data Science and Artific
 My passion for technology extends beyond traditional software development. By exploring various disciplines, including game development, I aim to maintain a broad, analytical, and versatile technical perspective.
 
 I am highly motivated to transform theoretical knowledge into practical, real-world projects. Throughout this process, I continuously improve my problem-solving skills and technical mindset. My ultimate goal is to build a career where I can design innovative solutions and keep learning in a fast-evolving technological environment.
+
 ---
 
 ## 🌐 Socials
