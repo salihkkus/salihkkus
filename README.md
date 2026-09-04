@@ -1,10 +1,6 @@
 # About Me
 
-I am a recent Computer Engineering graduate focusing on Data Science and Artificial Intelligence. Alongside this, I actively hone my skills in algorithms, C#, .NET, and mobile application development.
-
-My passion for technology extends beyond traditional software development. By exploring various disciplines, including game development, I aim to maintain a broad, analytical, and versatile technical perspective.
-
-I am highly motivated to transform theoretical knowledge into practical, real-world projects. Throughout this process, I continuously improve my problem-solving skills and technical mindset. My ultimate goal is to build a career where I can design innovative solutions and keep learning in a fast-evolving technological environment.
+I am a Computer Engineering graduate and Mobile Developer specializing in Flutter and Kotlin/Jetpack Compose. My focus is on building scalable, production-ready mobile applications and integrating AI technologies, such as computer vision and NLP, into practical solutions. Currently, I am developing an early-stage accessibility application backed by a startup incubator
 
 ---
 
