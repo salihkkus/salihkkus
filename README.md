@@ -45,22 +45,8 @@ I am a Computer Engineering graduate and Mobile Developer specializing in Flutte
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=salihkkus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=salihkkus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=salihkkus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihkkus/salihkkus/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihkkus/salihkkus/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salihkkus/salihkkus/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
