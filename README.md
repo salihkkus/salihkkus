@@ -2,8 +2,6 @@
 
 I'm a Computer Engineering graduate working as an AI Engineer. I'm currently working on integrating AI into a company's business processes.
 
-My focus is on LLM-based applications, RAG and local model integration. I've previously built AI-powered products in computer vision, natural language processing, OCR and LLM-based semantic matching. I also have backend experience with ASP.NET Core and mobile experience with Flutter and Kotlin. This lets me approach AI not as a standalone model, but as part of a system that real users rely on every day.
-
 Lately, I've been deepening my knowledge of model evaluation and fine-tuning.
 
 Outside of work, I'm an avid film watcher and create cinema-related content on social media.
