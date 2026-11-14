@@ -4,7 +4,7 @@ I'm a Computer Engineering graduate working as an AI Engineer. I'm currently wor
 
 Lately, I've been deepening my knowledge of model evaluation and fine-tuning.
 
-Outside of work, I'm an avid film watcher and create cinema-related content on social media.
+Outside of work, I'm an avid film watcher and create cinema-related content on social media. Tennis player as a master of slice backhands. Fulltime scotty fold lover and proud owner. pew pew pew 
 
 ---
 
